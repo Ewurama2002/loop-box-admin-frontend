@@ -32,3 +32,6 @@ Ensure you have the following installed on your system:
 - [Git](https://git-scm.com/)
 
 ### Clone the Repository
+```bash
+git clone https://github.com/Ewurama2002/loop-box-admin-frontend.git
+cd loop-box-admin-frontend
